@@ -20,7 +20,7 @@ function start(response) {
         'var centerY = canvas.height / 2;'+
         'var radius = 70;'+
         'context.beginPath();'+
-        'context.arc(centerX, centerY, radius, 0, 2 * Math.PI, false);'+
+        'context.arc(centerX, centerY, radius, 0, 3 * Math.PI, false);'+
         'context.fillStyle = "red";'+
         'context.fill();'+
         'context.lineWidth = 5;'+
